@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/Styles">
+        <file>ATB.json</file>
+        <file>Default.json</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>editcopy.png</file>
+        <file>editcut.png</file>
+        <file>editpaste.png</file>
+        <file>editredo.png</file>
+        <file>editundo.png</file>
+        <file>filenew.png</file>
+        <file>fileopen.png</file>
+        <file>filesave.png</file>
+        <file>editselectall.png</file>
+        <file>editfind.png</file>
+        <file>editfindandreplace.png</file>
+        <file>editfindmenu.png</file>
+        <file>CreatorPhoto.jpg</file>
+    </qresource>
+</RCC>

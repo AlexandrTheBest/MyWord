@@ -1,0 +1,50 @@
+{
+    "classFormat": {
+        "FontItalic": false,
+        "FontUnderline": false,
+        "FontWeight": 80,
+        "Foreground": "#ff6161"
+    },
+    "functionFormat": {
+        "FontItalic": false,
+        "FontUnderline": false,
+        "FontWeight": 80,
+        "Foreground": "#00541f"
+    },
+    "includeFormat": {
+        "FontItalic": false,
+        "FontUnderline": false,
+        "FontWeight": 80,
+        "Foreground": "#ff55cc"
+    },
+    "keywordFormat": {
+        "FontItalic": false,
+        "FontUnderline": false,
+        "FontWeight": 80,
+        "Foreground": "#a16d55"
+    },
+    "multiLineCommentFormat": {
+        "FontItalic": true,
+        "FontUnderline": true,
+        "FontWeight": 60,
+        "Foreground": "#ff8243"
+    },
+    "quotationFormat": {
+        "FontItalic": false,
+        "FontUnderline": false,
+        "FontWeight": 80,
+        "Foreground": "#f09816"
+    },
+    "searchFormat": {
+        "FontItalic": false,
+        "FontUnderline": false,
+        "FontWeight": 80,
+        "Foreground": "#ffffff"
+    },
+    "singleLineCommentFormat": {
+        "FontItalic": true,
+        "FontUnderline": true,
+        "FontWeight": 60,
+        "Foreground": "#ff8243"
+    }
+}
